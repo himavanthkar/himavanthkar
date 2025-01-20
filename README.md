@@ -90,3 +90,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himavanth-karpurapu-6907561b3)  
 📧 **Email**: himvanth89@gmail.com  
+   **Email**: himavanth.karpurapu@sjsu.edu
+   
+
