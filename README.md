@@ -2,7 +2,7 @@
 
 <!--
 **himavanthkar/himavanthkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 # 👋 Hi there, I’m Himavanth Karpurapu!
 
 🎓 Master's Student in Computer Science at **San Jose State University**, passionate about **Machine Learning**, **AI**, and **Data Engineering**.
