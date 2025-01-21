@@ -91,5 +91,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himavanth-karpurapu-6907561b3)  
 📧 **Email**: himvanth89@gmail.com  
 📧 **Email**: himavanth.karpurapu@sjsu.edu
-   
+
+### 📚 ** Accomplishments**
+- **Mozilla Hackathon Winner 2024** – Recognized for developing an innovative real-time collaboration tool using distributed systems.
+- **Stanford TreeHacks LLM Winner 2024** – Awarded for creating a groundbreaking AI-powered privacy policy summarizer leveraging large language models.
+
+
 
