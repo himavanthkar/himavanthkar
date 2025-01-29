@@ -65,9 +65,8 @@ www.himavanthkarpurapu.com
 
 - **WinIt**: Software Engineer, led impactful projects focused on scalable and efficient solutions.
 - **Nix Inc.**: Software Engineer Intern, spearheaded website overhauls for enhanced scalability and user engagement.
-- **Good Creator Co.**: Data Engineer Intern, designed and implemented scalable data solutions.
 - **Gupshup**: Software Developer Intern, contributed to enhancing Speech Recognition platforms.
-- **Healing Touch NGO**: Web Developer Intern, improved websites and actively participated in volunteering.
+- **Healing Touch NGO**: Volunteered as a tutor for students from economically disadvantaged backgrounds, providing guidance in science and mathematics. Assisted students in securing admissions to reputable colleges by helping them craft strong résumés, CVs, and college applications. Played a key role in mentoring and empowering students to achieve their academic aspirations.
 
 ---
 
