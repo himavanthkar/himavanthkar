@@ -11,19 +11,14 @@ passionate about **Machine Learning**, **AI**, and **Data Engineering**.
 ---
 
 ### 🌟 **About Me**
-
+- 😄 Pronouns: **He/Him**
+  
 - 🔭 I’m currently working on:
   - Research on **Therapeutic Effects of Yoga on Neuropsychiatric Disorders**.
-  
-- 🌱 I’m currently learning:{
-  - Advanced topics in **Data Engineering**, **Deep Learning** and **Cloud Technologies**.
 
 - 👯 I’m looking to collaborate on:
   - **AI and ML projects** with real-world applications.
   - Open-source contributions to Machine Learning frameworks.
-
-- 🤔 I’m looking for help with:
-  - Networking and job opportunities in **AI** and **Data Engineering** roles.
 
 - 💬 Ask me about:
   - Best places to hike in california
@@ -31,12 +26,23 @@ passionate about **Machine Learning**, **AI**, and **Data Engineering**.
   - My research and internship experiences.
   - Soccer
 
-- 😄 Pronouns: **He/Him**
 
 - ⚡ Fun fact:
   - I enjoy **Soccer**, **Cooking**, **Reading**, and **hiking** during my past time.
 
 ---
+
+### 🌍 **Let’s Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himavanth-karpurapu-6907561b3)  
+📧 **Email**: himvanth89@gmail.com  
+📧 **Email**: himavanth.karpurapu@sjsu.edu
+
+### 📚 Accomplishments
+- **Mozilla Hackathon Winner 2024** – Recognized for developing an innovative real-time collaboration tool using distributed systems.
+- **Stanford TreeHacks LLM Winner 2024** – Awarded for creating a groundbreaking AI-powered privacy policy summarizer leveraging large language models.
+
+
 
 ### 🛠 **Tools & Technologies**
 
@@ -66,31 +72,3 @@ passionate about **Machine Learning**, **AI**, and **Data Engineering**.
 - **Healing Touch NGO**: Volunteered as a tutor for students from economically disadvantaged backgrounds, providing guidance in science and mathematics. Assisted students in securing admissions to reputable colleges by helping them craft strong résumés, CVs, and college applications. Played a key role in mentoring and empowering students to achieve their academic aspirations.
 
 ---
-
-### 📚 **My College Journey**
-
-- **Research**: Published papers on:
-  - **EEG Visualization**
-  - **Therapeutic Effects of Yoga on Neuropsychiatric Disorders**
-  
-- **Projects**:
-  - Developed **Brain Tumor Detection using CNN** and other impactful AI-based solutions.
-
-- **Extra-Curriculars**:
-  - 🛠 Technical Head and Core Member of **Vachan Club Speaking KMIT (2019-22)**
-  - 🎤 Active in public speaking, volunteering, and technical mentorship.
-
----
-
-### 🌍 **Let’s Connect**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himavanth-karpurapu-6907561b3)  
-📧 **Email**: himvanth89@gmail.com  
-📧 **Email**: himavanth.karpurapu@sjsu.edu
-
-### 📚 Accomplishments
-- **Mozilla Hackathon Winner 2024** – Recognized for developing an innovative real-time collaboration tool using distributed systems.
-- **Stanford TreeHacks LLM Winner 2024** – Awarded for creating a groundbreaking AI-powered privacy policy summarizer leveraging large language models.
-
-
-
