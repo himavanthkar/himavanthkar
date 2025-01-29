@@ -5,7 +5,8 @@
 -->
 www.himavanthkarpurapu.com
 
-🎓 Master's Student in Computer Science at **San Jose State University**, passionate about **Machine Learning**, **AI**, and **Data Engineering**.
+🎓 Master's Student in Computer Science at **San Jose State University**,
+passionate about **Machine Learning**, **AI**, and **Data Engineering**.
 
 ---
 
@@ -13,11 +14,9 @@ www.himavanthkarpurapu.com
 
 - 🔭 I’m currently working on:
   - Research on **EEG Visualization** and **Therapeutic Effects of Yoga on Neuropsychiatric Disorders**.
-  - Developing AI-driven projects like **Brain Tumor Detection using CNN**.
   
-- 🌱 I’m currently learning:
-  - **Deep Learning**, **Machine Learning**, and **Computer Vision**.
-  - Advanced topics in **Data Engineering** and **Cloud Technologies**.
+- 🌱 I’m currently learning:{
+  - Advanced topics in **Data Engineering**, **Deep Learning** and **Cloud Technologies**.
 
 - 👯 I’m looking to collaborate on:
   - **AI and ML projects** with real-world applications.
@@ -27,17 +26,19 @@ www.himavanthkarpurapu.com
   - Networking and job opportunities in **AI** and **Data Engineering** roles.
 
 - 💬 Ask me about:
-  - **Machine Learning**, **AI**, **Software Development**, and **Data Engineering**.
+  - Best places to hike in california
+  - Cooking
   - My research and internship experiences.
+  - Soccer
 
 - 📫 How to reach me:
-  - 📧 Email: himvanth89@gmail.com
+  - [Email]: himvanth89@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/himavanth-karpurapu-6907561b3)
 
 - 😄 Pronouns: **He/Him**
 
 - ⚡ Fun fact:
-  - I enjoy **Gymming**, **Cooking**, **Reading**, and **Travelling** during my free time.
+  - I enjoy **Soccer**, **Cooking**, **Reading**, and **hiking** during my past time.
 
 ---
 
