@@ -10,6 +10,17 @@ passionate about **Machine Learning**, **AI**, and **Data Engineering**.
 
 ---
 
+### 💼 **Professional Experiences**
+
+- **WinIt**: Software Engineer, led impactful projects focused on scalable and efficient solutions.
+- **Nix Inc.**: Software Engineer Intern, spearheaded website overhauls for enhanced scalability and user engagement.
+- **Gupshup**: Software Developer Intern, contributed to enhancing Speech Recognition platforms.
+- **Healing Touch NGO**: Volunteered as a tutor for students from economically disadvantaged backgrounds, providing guidance in science and mathematics. Assisted students in securing admissions to reputable colleges by helping them craft strong résumés, CVs, and college applications. Played a key role in mentoring and empowering students to achieve their academic aspirations.
+
+---
+
+---
+
 ### 🌟 **About Me**
 - 😄 Pronouns: **He/Him**
   
@@ -62,13 +73,3 @@ passionate about **Machine Learning**, **AI**, and **Data Engineering**.
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
----
-
-### 💼 **Professional Experiences**
-
-- **WinIt**: Software Engineer, led impactful projects focused on scalable and efficient solutions.
-- **Nix Inc.**: Software Engineer Intern, spearheaded website overhauls for enhanced scalability and user engagement.
-- **Gupshup**: Software Developer Intern, contributed to enhancing Speech Recognition platforms.
-- **Healing Touch NGO**: Volunteered as a tutor for students from economically disadvantaged backgrounds, providing guidance in science and mathematics. Assisted students in securing admissions to reputable colleges by helping them craft strong résumés, CVs, and college applications. Played a key role in mentoring and empowering students to achieve their academic aspirations.
-
----
