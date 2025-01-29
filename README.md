@@ -13,7 +13,7 @@ passionate about **Machine Learning**, **AI**, and **Data Engineering**.
 ### 🌟 **About Me**
 
 - 🔭 I’m currently working on:
-  - Research on **EEG Visualization** and **Therapeutic Effects of Yoga on Neuropsychiatric Disorders**.
+  - Research on **Therapeutic Effects of Yoga on Neuropsychiatric Disorders**.
   
 - 🌱 I’m currently learning:{
   - Advanced topics in **Data Engineering**, **Deep Learning** and **Cloud Technologies**.
@@ -30,10 +30,6 @@ passionate about **Machine Learning**, **AI**, and **Data Engineering**.
   - Cooking
   - My research and internship experiences.
   - Soccer
-
-- 📫 How to reach me:
-  - [Email]: himvanth89@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/himavanth-karpurapu-6907561b3)
 
 - 😄 Pronouns: **He/Him**
 
