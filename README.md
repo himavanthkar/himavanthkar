@@ -13,24 +13,24 @@ passionate about **Machine Learning**, **AI**, and **Data Engineering**.
 ### 💼 **Professional Experiences**
 
 - **WinIt**: Software Engineer, led impactful projects focused on scalable and efficient solutions.
-Situation
-The company needed to migrate its infrastructure to the cloud with minimal downtime and manual intervention.
-Task
-Automate cloud infrastructure provisioning and optimize resource allocation.
-Action
-Used Terraform to automate AWS infrastructure provisioning, managed services like EC2 instances, RDS, S3, and Lambda, and implemented auto-scaling to optimize costs. Designed CI/CD pipelines using Jenkins and GitHub Actions and containerized applications with Docker for deployment on Kubernetes.
-Result
-Reduced cloud migration time by 25%, increased automation by 20%, and cut computational costs by 30%.
+  -Situation
+  -The company needed to migrate its infrastructure to the cloud with minimal downtime and manual intervention.
+  -Task
+  -Automate cloud infrastructure provisioning and optimize resource allocation.
+  -Action
+  -Used Terraform to automate AWS infrastructure provisioning, managed services like EC2 instances, RDS, S3, and Lambda, and implemented auto-scaling to optimize costs. Designed     -CI/CD pipelines using Jenkins and GitHub Actions and containerized applications with Docker for deployment on Kubernetes.
+  -Result
+  -Reduced cloud migration time by 25%, increased automation by 20%, and cut computational costs by 30%.
 
 - **Udaan Research Lab,KMIT**: 
-Situation
-Doctors needed a faster and more accurate way to detect cancer from CT scans.
-Task
-Develop a full-stack web application for medical imaging analysis.
-Action
-Built the frontend using React.js, backend with Flask, and deployed CNN models using TensorFlow Serving and Docker. Created data preprocessing pipelines with Python and OpenCV and integrated real-time inference capabilities.
-Result
-Achieved 97% accuracy in cancer detection, reduced diagnosis time by 40%, and improved training efficiency by 15%.
+  -Situation
+  -Doctors needed a faster and more accurate way to detect cancer from CT scans.
+  -Task
+  -Develop a full-stack web application for medical imaging analysis.
+  -Action
+  -Built the frontend using React.js, backend with Flask, and deployed CNN models using TensorFlow Serving and Docker. Created data preprocessing pipelines with Python and OpenCV and integrated real-time inference capabilities.
+  -Result
+  -Achieved 97% accuracy in cancer detection, reduced diagnosis time by 40%, and improved training efficiency by 15%.
 - **Healing Touch NGO**: Volunteered as a tutor for students from economically disadvantaged backgrounds, providing guidance in science and mathematics. Assisted students in securing admissions to reputable colleges by helping them craft strong résumés, CVs, and college applications. Played a key role in mentoring and empowering students to achieve their academic aspirations.
 
 ---
