@@ -3,9 +3,9 @@
 <!--
 **himavanthkar/himavanthkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-www.himavanthkarpurapu.com
 
-🎓 Master's Student in Computer Science at **San Jose State University**,
+
+🎓 Student in Computer Science at **San Jose State University**,
 passionate about **Machine Learning**, **AI**, and **Data Engineering**.
 
 # 💫 About Me:
