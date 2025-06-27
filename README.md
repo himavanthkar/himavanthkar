@@ -5,7 +5,7 @@
 -->
 
 
-🎓 Student in Computer Science at **San Jose State University**,
+🎓 Pursuing my masters in Computer Science at **San Jose State University**,
 passionate about **Machine Learning**, **AI**, and **Data Engineering**.
 
 # 💫 About Me:
