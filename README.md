@@ -8,7 +8,8 @@ Hi there, I’m Himavanth Karpurapu!
 -->
 
 
-Pursuing my Masters in Computer Science at **San Jose State University**,
+Pursuing my Masters in Computer Science at **San Jose State University**
+
 revered in **Machine Learning**,**Cloud**, **LLM** and **Agentic AI**.
 
 # About Me:
@@ -28,10 +29,4 @@ I’m currently working on:<br>ADHD productivity. <br>Hands-on AWS projects, inc
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=himavanthkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=himavanthkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=himavanthkar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
