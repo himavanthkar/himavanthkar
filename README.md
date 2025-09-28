@@ -1,6 +1,10 @@
 ## 
 Each breath a cue; each moment awaits its audience.
-Hi there, I’m Himavanth Karpurapu!
+
+
+Hello Dreamer,
+
+I’m Himavanth Karpurapu!
 ##
 
 <!--
