@@ -1,10 +1,7 @@
 ## 
-Each breath a cue; each moment awaits its audience.
+Tech God
 
-
-Hello Dreamer,
-
-I’m Himavanth Karpurapu!
+I am Himavanth
 ##
 
 <!--
@@ -12,12 +9,12 @@ I’m Himavanth Karpurapu!
 -->
 
 
-Pursuing my Masters in Computer Science at **San Jose State University**
+Masters in Comp Sci at **SJSU**
 
 revered in **Machine Learning**,**Cloud**, **LLM** and **Agentic AI**.
 
 # About Me:
-I’m currently working on:<br>ADHD productivity. <br>Hands-on AWS projects, including API Gateway, Lambda, and S3 integration.<br>Research in computer vision and Extreme Learning Machines (ELM)<br><br>I’m looking to collaborate on:<br>AI-driven projects, especially in deep learning, computer vision, and AWS-based solutions.<br>Open-source initiatives related to neural networks and edge AI.<br>Advanced AWS storage and networking concepts, including AWS Storage Gateway.<br><br>I’m currently learning:<br>AWS Amplify, API Gateway, Lambda, and S3 for scalable backend development.<br>Load balancing and EC2 storage as part of my cloud computing coursework.<br><br>Ask me about:<br> A good cup of coffee<br> Hiking adventures<br> Archery techniques<br>Good jokes<br> Designing scalable APIs (recently built a Quiz API with Apache NiFi)<br> Optimizing network connections and prime number algorithms<br><br> Fun Facts:<br>I’m a deep thinker and a good cook <br>I won a Mozilla Hackathon award , placing in the top 1% out of 1000 participants and securing a $500 cash prize!
+ working on:<br>ADHD productivity. <br>Hands-on AWS projects: API Gateway, Lambda, and S3 integration.<br> Extreme Learning Machines (ELM)<br><br><br>Ask me about:<br> A good cup of coffee<br> Hiking adventures<br> Archery techniques<br>Good jokes<br> Designing scalable APIs (recently built a Quiz API with Apache NiFi)<br> Optimizing network connections and prime number algorithms<br><br> Fun Facts:<br>I’m a deep thinker and a good cook <br> WON - 5 Hacks, including Treehacks, UC berkeley Hacks, UCLA Hacks, Mozilla hack
 
 
 ##  Socials:
