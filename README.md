@@ -5,11 +5,7 @@ Tech G- Himavanth K
 <!--
 **himavanthkar/himavanthkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-Masters in Comp Sci at **SJSU**
-
-revered in **Machine Learning**,**Cloud**, **LLM** and **Agentic AI**.
+MS-CS @ **SJSU** -- **ML**,**Cloud**, **LLM** and **Agentic AI**.
 
 # About Me:
  working on:<br>ADHD productivity. <br>Hands-on AWS projects: API Gateway, Lambda, and S3 integration.<br> Extreme Learning Machines (ELM)<br><br><br>Ask me about:<br> A good cup of coffee<br> Hiking adventures<br> Archery techniques<br>Good jokes<br> Designing scalable APIs (recently built a Quiz API with Apache NiFi)<br> Optimizing network connections and prime number algorithms<br><br> Fun Facts:<br>I’m a deep thinker and a good cook <br> WON - 5 Hacks, including Treehacks, UC berkeley Hacks, UCLA Hacks, Mozilla hack
