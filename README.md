@@ -1,5 +1,6 @@
 ## 
-Tech G- Himavanth Karpurapu.
+Tech G.
+Himavanth Karpurapu.
 MS-CS @ **SJSU** -- **ML**,**Cloud**, **LLM** and **Agentic AI**.
 ##
 
