@@ -1,7 +1,5 @@
 ## 
-Tech God
-
-I am Himavanth
+Tech G- Himavanth K
 ##
 
 <!--
