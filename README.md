@@ -62,6 +62,10 @@
 
 
 <pre align="center">
+  .
+  .
+  .
+  .
 Builder @ NeuroBoost  ·  ex-Software Engineer @ WinIT
 4x hackathon winner ($5K+ in prizes @ TreeHacks, UC Berkeley Hacks, LA Hacks)
 2x SWE intern  ·  AWS certified x3 (Solutions Architect · ML Specialty · GenAI Developer)
@@ -69,6 +73,11 @@ Builder @ NeuroBoost  ·  ex-Software Engineer @ WinIT
 Fun facts:
  deep thinker and a genuinely good cook
  into hiking and piano
+
+.
+.
+.
+.
 </pre>
 
 
