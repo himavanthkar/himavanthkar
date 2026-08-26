@@ -67,8 +67,8 @@ Builder @ NeuroBoost  ·  ex-Software Engineer @ WinIT
 2x SWE intern  ·  AWS certified x3 (Solutions Architect · ML Specialty · GenAI Developer)
 
 Fun facts:
-- deep thinker and a genuinely good cook
-- into hiking and piano
+ deep thinker and a genuinely good cook
+ into hiking and piano
 </pre>
 
 
